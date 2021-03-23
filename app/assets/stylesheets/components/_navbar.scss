@@ -10,3 +10,14 @@
 .navbar-lewagon .navbar-brand img {
   width: 40px;
 }
+
+#nav-messages {
+  display: flex;
+  align-items: center;
+}
+
+.notification-new-message {
+  color: red;
+  font-size: 0.5rem;
+  display: none;
+}
